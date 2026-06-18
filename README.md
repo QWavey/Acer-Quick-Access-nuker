@@ -11,7 +11,7 @@ Get-ChildItem -Path "C:\Program Files\Acer" -Filter "*.exe" -Recurse -ErrorActio
     }
 
 
-if acer predator sense seems stuck:
+#if acer predator sense seems stuck:
 
 # 1. Bring the Acer Quick Access framework completely back to default factory settings 
 # This rules out any missing engine errors causing PredatorSense to stall
